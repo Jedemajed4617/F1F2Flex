@@ -1,2 +1,2 @@
-# F1F2Flex
+# F1M2Flex
 Flex opdrachten boardgame
